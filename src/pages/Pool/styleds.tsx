@@ -1,4 +1,4 @@
-import { Text } from '@pantherswap-libs/uikit'
+import { Text } from '@defiswap/kindle'
 import styled from 'styled-components'
 
 export const Wrapper = styled.div`

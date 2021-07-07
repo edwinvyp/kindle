@@ -1,7 +1,7 @@
 import React, { useContext, useMemo } from 'react'
 import { ThemeContext } from 'styled-components'
 import { Pair } from '@pantherswap-libs/sdk'
-import { Button, CardBody, Text } from '@pantherswap-libs/uikit'
+import { Button, CardBody, Text } from '@defiswap/kindle'
 import { Link } from 'react-router-dom'
 import CardNav from 'components/CardNav'
 import Question from 'components/QuestionHelper'

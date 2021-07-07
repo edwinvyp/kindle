@@ -1,4 +1,4 @@
-import { MenuEntry } from '@pantherswap-libs/uikit'
+import { MenuEntry } from '@defiswap/kindle'
 
 const config: MenuEntry[] = [
   {
