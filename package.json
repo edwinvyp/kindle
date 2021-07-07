@@ -79,6 +79,7 @@
     "@walletconnect/web3-provider": "1.1.1-alpha.0"
   },
   "scripts": {
+    "uikit": "yarn add @defiswap/kindle",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
@@ -86,7 +87,6 @@
     "lint": "eslint 'src/**/*.{js,jsx,ts,tsx}'",
     "lint:fix": "eslint 'src/**/*.{js,jsx,ts,tsx}' --fix",
     "integration-test": "start-server-and-test 'serve build -l 3000' http://localhost:3000 'cypress run'",
-    "uikit": "yarn add @defiswap/kindle",
     "uikit": "yarn upgrade @pancakeswap-libs/uikit"
   },
   "browserslist": {
