@@ -3070,7 +3070,7 @@
 "@defiswap/kindle@^0.1.1":
   version "0.1.1"
   resolved "https://registry.npmjs.org/@defiswap/kindle/-/kindle-0.1.1.tgz"
-  integrity sha512-ymEKLfLSyD/HDq+C2PwUSbcG3DlBu7IQNutTnCwVgtpmYrK/TchfTJ4lCNG09y4kDgDoCLMwYjnTIaTYFgLN6w==
+  integrity sha512-R01QGfpAChSaHUWEJHQdBRQyAeoOeWFLpJyh5FhdgrkIPLP+01u4pazagyi1n6p/cgIrXIQ/hF7tc9qIM+9zJw==
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
